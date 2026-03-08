@@ -12,4 +12,4 @@ Storitve:
 - Aktivnosti (npr. ocena, komentar, prebrana knjiga, priporočena igrica, itd.)
 
 Diagram arhitekture:
-[Diagram arhitekture MediaHub](ITA_MediaHub.png)
+![Diagram arhitekture MediaHub](ITA_MediaHub.png)
